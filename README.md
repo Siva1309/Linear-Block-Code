@@ -1,5 +1,5 @@
 # Linear-Block-Code
-## Aim
+## Aim 
 The aim of this program is to simulate a Linear Block Code (LBC) system by generating the parity-check matrix, detecting errors in the received codeword, and producing the corrected codeword.
 ## Tools Required
 1.Python (Programming Language)
